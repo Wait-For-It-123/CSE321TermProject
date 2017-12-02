@@ -75,3 +75,8 @@ h1
 {
 	border: 1px solid white;
 }
+.hero p
+{
+	color: white;
+	font-size: 12px;
+}
