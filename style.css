@@ -59,3 +59,15 @@ h1
 	text-align: center;
 	margin-top: 275px;
 }
+.hero li
+{
+	display: inline-block;
+}
+.hero li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
